@@ -7,5 +7,4 @@ public class SonalClass {
 		System.out.println("puja class - Java Program");
 		System.out.println("Prajkta");
 	}
-
 }
